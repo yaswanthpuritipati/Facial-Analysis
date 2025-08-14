@@ -1,0 +1,11 @@
+onnx==1.16.1
+onnxruntime==1.18.1
+onnxruntime-gpu==1.18.0
+opencv-python==4.9.0.80
+numpy==1.24.4
+scikit-image==0.23.2
+torch==2.1.0
+torchvision==0.16.0
+facenet-pytorch==2.5.3
+scipy==1.11.4
+Pillow==10.0.1
